@@ -10,3 +10,6 @@
 #### Banco
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+<img src="https://raw.githubusercontent.com/Carlos34423/Carlos34423/output/snake.svg" alt="Snake animation" />
+
+###
