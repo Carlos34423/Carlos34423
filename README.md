@@ -1,5 +1,5 @@
 ## Olá, sou o Carlos (CJ)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cj_santss/)
 ## Meus Conhecimentos
 
 #### Skills
