@@ -1,13 +1,6 @@
 ## Olá, sou o Carlos (CJ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cj_santss/)
-
-<table align="center">
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos34423&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlos34423&layout=compact&theme=tokyonight"/></td>
-  </tr>
-</table>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=180&section=header&animation=fadeIn"/>
 ## Meus Conhecimentos
 
 #### Skills
